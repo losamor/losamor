@@ -5,6 +5,7 @@
 - 📫 How to reach me mail: leonos.work@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🛠  Working on: Bilr - https://usebilr.vercel.app/
 
 <!---
 losamor/losamor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
